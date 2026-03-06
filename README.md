@@ -128,6 +128,19 @@ Chacha joins a global movement to democratize speech therapy:
 | `/api/users/{id}/stats` | `GET` | Retrieve user performance statistics and history. |
 
 ---
-## 9. License
+
+## 9. Contributing
+
+We welcome contributions! To maintain a clean and stable codebase, please follow these guidelines:
+
+1.  **Branching Strategy:** Do **not** push directly to the `main` branch. Always create a new branch for your feature or bug fix:
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+2.  **Pull Requests:** When your changes are ready, create a Pull Request (PR) targeting the **`dev`** branch, not `main`. 
+3.  **Review:** Once your PR is reviewed and approved, it will be merged into `dev` for further testing before reaching `main`.
+
+---
+## 10. License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
