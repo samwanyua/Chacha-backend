@@ -27,7 +27,6 @@ These make communication noticeably harder and may require support:
 - **Apraxia of speech** – Difficulty planning and coordinating movements needed for speech.
 - **Dysarthria** – Weakness or poor coordination of speech muscles, causing slurred speech.
 
----
 
 ## 2. The Solution
 
