@@ -1,0 +1,9 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore saved user audio
+saved_audio/
+
+.DS_Store

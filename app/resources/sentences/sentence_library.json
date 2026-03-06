@@ -1,0 +1,214 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Hello, how are you today?",
+      "difficulty": 1,
+      "category": "Greetings",
+      "word_count": 5
+    },
+    {
+      "id": 2,
+      "text": "Good morning, nice to meet you.",
+      "difficulty": 1,
+      "category": "Greetings",
+      "word_count": 6
+    },
+    {
+      "id": 3,
+      "text": "My name is John and I live here.",
+      "difficulty": 1,
+      "category": "Introductions",
+      "word_count": 8
+    },
+    {
+      "id": 4,
+      "text": "Thank you very much for your help.",
+      "difficulty": 1,
+      "category": "Politeness",
+      "word_count": 7
+    },
+    {
+      "id": 5,
+      "text": "Can I have a glass of water, please?",
+      "difficulty": 1,
+      "category": "Daily Conversation",
+      "word_count": 9
+    },
+    {
+      "id": 6,
+      "text": "What time does the store open tomorrow?",
+      "difficulty": 1,
+      "category": "Questions",
+      "word_count": 7
+    },
+    {
+      "id": 7,
+      "text": "I would like to order a cup of coffee.",
+      "difficulty": 1,
+      "category": "Daily Conversation",
+      "word_count": 9
+    },
+    {
+      "id": 8,
+      "text": "The weather is really nice today.",
+      "difficulty": 1,
+      "category": "Small Talk",
+      "word_count": 6
+    },
+    {
+      "id": 9,
+      "text": "The quick brown fox jumps over the lazy dog.",
+      "difficulty": 2,
+      "category": "Pangrams",
+      "word_count": 9
+    },
+    {
+      "id": 10,
+      "text": "Please pass me the salt and pepper from the table.",
+      "difficulty": 2,
+      "category": "Daily Conversation",
+      "word_count": 10
+    },
+    {
+      "id": 11,
+      "text": "I enjoy reading books in the evening after dinner.",
+      "difficulty": 2,
+      "category": "Hobbies",
+      "word_count": 9
+    },
+    {
+      "id": 12,
+      "text": "Could you please tell me how to get to the train station?",
+      "difficulty": 2,
+      "category": "Directions",
+      "word_count": 13
+    },
+    {
+      "id": 13,
+      "text": "She sells seashells by the seashore every summer.",
+      "difficulty": 2,
+      "category": "Tongue Twisters",
+      "word_count": 8
+    },
+    {
+      "id": 14,
+      "text": "The children are playing in the park with their friends.",
+      "difficulty": 2,
+      "category": "Descriptions",
+      "word_count": 10
+    },
+    {
+      "id": 15,
+      "text": "I need to go to the grocery store to buy some vegetables.",
+      "difficulty": 2,
+      "category": "Daily Conversation",
+      "word_count": 12
+    },
+    {
+      "id": 16,
+      "text": "Would you mind closing the window? It is getting quite cold in here.",
+      "difficulty": 2,
+      "category": "Requests",
+      "word_count": 13
+    },
+    {
+      "id": 17,
+      "text": "The pharmaceutical representative scheduled an appointment with the physician.",
+      "difficulty": 3,
+      "category": "Professional",
+      "word_count": 9
+    },
+    {
+      "id": 18,
+      "text": "Approximately three hundred and fifty participants registered for the international conference.",
+      "difficulty": 3,
+      "category": "Academic",
+      "word_count": 11
+    },
+    {
+      "id": 19,
+      "text": "The environmental sustainability committee recommended implementing comprehensive recycling programs.",
+      "difficulty": 3,
+      "category": "Academic",
+      "word_count": 9
+    },
+    {
+      "id": 20,
+      "text": "Peter Piper picked a peck of pickled peppers from the garden patch.",
+      "difficulty": 3,
+      "category": "Tongue Twisters",
+      "word_count": 12
+    },
+    {
+      "id": 21,
+      "text": "The distinguished professor delivered an extraordinary lecture on quantum mechanics.",
+      "difficulty": 3,
+      "category": "Academic",
+      "word_count": 10
+    },
+    {
+      "id": 22,
+      "text": "Despite the unfavorable circumstances, they persevered and ultimately achieved remarkable success.",
+      "difficulty": 3,
+      "category": "Motivation",
+      "word_count": 11
+    },
+    {
+      "id": 23,
+      "text": "How much wood would a woodchuck chuck if a woodchuck could chuck wood?",
+      "difficulty": 3,
+      "category": "Tongue Twisters",
+      "word_count": 13
+    },
+    {
+      "id": 24,
+      "text": "The technological infrastructure requires significant modernization to meet contemporary standards.",
+      "difficulty": 3,
+      "category": "Professional",
+      "word_count": 10
+    },
+    {
+      "id": 25,
+      "text": "I am feeling well today.",
+      "difficulty": 1,
+      "category": "Health",
+      "word_count": 5
+    },
+    {
+      "id": 26,
+      "text": "Where is the nearest hospital?",
+      "difficulty": 1,
+      "category": "Health",
+      "word_count": 5
+    },
+    {
+      "id": 27,
+      "text": "I have an appointment with the doctor at three o'clock this afternoon.",
+      "difficulty": 2,
+      "category": "Health",
+      "word_count": 12
+    },
+    {
+      "id": 28,
+      "text": "Please remember to take your medication twice a day with food.",
+      "difficulty": 2,
+      "category": "Health",
+      "word_count": 11
+    },
+    {
+      "id": 29,
+      "text": "The rehabilitation therapist demonstrated several exercises for strengthening coordination.",
+      "difficulty": 3,
+      "category": "Health",
+      "word_count": 9
+    },
+    {
+      "id": 30,
+      "text": "Communication is the most important skill we can develop throughout our lives.",
+      "difficulty": 3,
+      "category": "Motivation",
+      "word_count": 12
+    }
+  ]
+}
