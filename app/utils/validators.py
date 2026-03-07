@@ -1,5 +1,5 @@
 """
-Input validation utilities for SpeechMaster.
+Input validation utilities for Chacha.
 """
 import re
 from app.utils.config import (

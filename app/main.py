@@ -1,5 +1,5 @@
 """
-SpeechMaster — FastAPI Backend Entry Point
+Chacha — FastAPI Backend Entry Point
 API for Chacha Speech Learning Tool
 """
 import logging
@@ -94,7 +94,7 @@ class TTSText(BaseModel):
 # ── Endpoints: System ──
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the Chacha SpeechMaster API! Documentation available at /docs."}
+    return {"message": "Welcome to the Chacha  API! Documentation available at /docs."}
 
 # ── Endpoints: Auth ──
 @app.post("/api/auth/register")

@@ -1,5 +1,5 @@
 """
-LED control service via GPIO for SpeechMaster.
+LED control service via GPIO for Chacha.
 Controls green, orange, and red LEDs on Raspberry Pi.
 """
 import logging

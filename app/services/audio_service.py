@@ -1,5 +1,5 @@
 """
-Audio recording and playback service for SpeechMaster.
+Audio recording and playback service for Chacha.
 """
 import logging
 import os

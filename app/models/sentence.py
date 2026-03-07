@@ -1,5 +1,5 @@
 """
-Sentence model for SpeechMaster.
+Sentence model for Chacha.
 """
 from dataclasses import dataclass
 from typing import Optional

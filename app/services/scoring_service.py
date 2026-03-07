@@ -1,5 +1,5 @@
 """
-Scoring service for SpeechMaster.
+Scoring service for Chacha.
 Calculates Word Error Rate (WER) and maps to accuracy/categories.
 """
 import logging

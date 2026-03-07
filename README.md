@@ -60,7 +60,7 @@ While several tools exist globally, Chacha focuses on:
 
 ## 5. Technology Stack (Backend)
 
-The **Chacha Backend** (SpeechMaster) is a high-performance API built with modern Python technologies:
+The **Chacha Backend**  is a high-performance API built with modern Python technologies:
 
 -   **Framework**: [FastAPI](https://fastapi.tiangolo.com/) for high-speed, asynchronous API endpoints.
 -   **Speech-to-Text (STT)**: Integration with HuggingFace Transformers and PyTorch for accurate transcription and analysis.

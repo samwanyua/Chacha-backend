@@ -1,5 +1,5 @@
 """
-Authentication service for SpeechMaster.
+Authentication service for Chacha.
 Handles user registration, login, guest mode, and session management.
 """
 import logging
