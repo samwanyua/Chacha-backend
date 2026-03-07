@@ -1,5 +1,5 @@
 """
-Text-to-Speech service using Piper TTS for SpeechMaster.
+Text-to-Speech service using Piper TTS for Chacha.
 Supports multiple voices (male / female).
 """
 import hashlib

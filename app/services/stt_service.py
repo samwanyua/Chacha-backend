@@ -1,5 +1,5 @@
 """
-Speech-to-Text service using HuggingFace Transformers (Whisper) for SpeechMaster.
+Speech-to-Text service using HuggingFace Transformers (Whisper) for Chacha.
 
 Uses: cdli/whisper-tiny_finetuned_kenyan_english_nonstandard_speech_v0.9
 """

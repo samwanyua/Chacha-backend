@@ -1,12 +1,12 @@
 """
-Application configuration constants for SpeechMaster.
+Application configuration constants for Chacha.
 """
 import os
 import sys
 from pathlib import Path
 
 # Application Info
-APP_NAME = "SpeechMaster"
+APP_NAME = "Chacha"
 APP_VERSION = "1.0.0"
 
 # Paths
@@ -114,12 +114,12 @@ LOG_FILE = BASE_DIR / "app.log"
 LOG_FORMAT = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 
 # Detect Raspberry Pi
-def is_raspberry_pi() -> bool:
-    """Check if running on Raspberry Pi."""
-    try:
-        with open('/proc/cpuinfo', 'r') as f:
-            return 'Raspberry Pi' in f.read()
-    except (FileNotFoundError, PermissionError):
-        return False
+# def is_raspberry_pi() -> bool:
+#     """Check if running on Raspberry Pi."""
+#     try:
+#         with open('/proc/cpuinfo', 'r') as f:
+#             return 'Raspberry Pi' in f.read()
+#     except (FileNotFoundError, PermissionError):
+#         return False
 
-IS_RASPBERRY_PI = is_raspberry_pi()
+# IS_RASPBERRY_PI = is_raspberry_pi()

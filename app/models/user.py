@@ -1,5 +1,5 @@
 """
-User model for SpeechMaster.
+User model for Chacha.
 """
 from dataclasses import dataclass, field
 from datetime import datetime

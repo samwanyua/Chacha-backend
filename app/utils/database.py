@@ -1,5 +1,5 @@
 """
-SQLite database operations for SpeechMaster.
+SQLite database operations for Chacha.
 """
 import json
 import logging

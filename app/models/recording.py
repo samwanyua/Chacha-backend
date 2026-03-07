@@ -1,5 +1,5 @@
 """
-Recording model for SpeechMaster.
+Recording model for Chacha.
 """
 from dataclasses import dataclass
 from datetime import datetime
